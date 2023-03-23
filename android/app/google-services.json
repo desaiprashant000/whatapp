@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421104324114",
+    "project_id": "chatapp-ccacf",
+    "storage_bucket": "chatapp-ccacf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421104324114:android:35d498ac293495ccac92cb",
+        "android_client_info": {
+          "package_name": "com.example.whatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421104324114-3r1ingkog5r7fro7vi1p3ruks7darovl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8JaUXskYnOJ-ZlDc0NSh7u-PyiLoCvsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421104324114-3r1ingkog5r7fro7vi1p3ruks7darovl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
